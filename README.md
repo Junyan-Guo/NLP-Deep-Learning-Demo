@@ -23,7 +23,7 @@
 
 
 ## General Structure of NLP tasks:
-<img src="figs/Structure.png" alt="Structure" width="500"/>
+<img src="figs/Structure.png" alt="Structure" width="1500"/>
 
 ## Key differences between text processing in English and Chinese text data:
 
