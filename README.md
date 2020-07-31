@@ -21,9 +21,11 @@
 + **4. Name Entitity Recognition**
 
 
+## General Structure of NLP + CNN:
+
 ## Key differences between text processing in English and Chinese text data:
 
-  - **Segmentation**:
+  - **Segmentation**: Sophisticated and important to Chinese.
   
     + Chinese
                  
@@ -35,7 +37,7 @@
                  "Hello World" -> "Hello", "World"
                  "Hamburger is delicious" -> "hamburger", "is", "delicious"  # segementation & transfer to lowercase
     
-  - **Lemmatization**:
+  - **Lemmatization**: Only for English.
     
     Lemmatization is often used for **Text Minning**, **NLP** for better understanding and analysis of the text.
     
