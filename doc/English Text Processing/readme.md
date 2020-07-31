@@ -7,20 +7,24 @@ For more details on [nltk](https://github.com/nltk/nltk) Module, please refer to
 
   - **Segmentation**:
   
-    **Chinese**: "世界你好" -> "世界", "你好"
+    **Chinese**: 
+                 
+                 "世界你好" -> "世界", "你好"
+                 "汉堡好吃" -> "汉堡", "好吃"
     
-    **English**: "Hello World" -> "Hello", "World"
+    **English**: 
+                 
+                 "Hello World" -> "Hello", "World"
+                 "Hamburger is delicious" -> "hamburger", "is", "delicious"  # segementation & transfer to lowercase
     
   - **Lemmatization**:
     More for **Text Minning**, **NLP** for better understanding and analysis of the text.
     
     **English**: 
-                 `"did", "done", "doing", "does" -> "do"
-
-                 "potatoes" -> "potato"
                  
-                 "cities" -> "city"
-                 
+                 "did", "done", "doing", "does" -> "do"
+                 "potatoes" -> "potato"                 
+                 "cities" -> "city"                 
                  "children -> "child"
                  
   - **Stemming**:
@@ -29,7 +33,7 @@ For more details on [nltk](https://github.com/nltk/nltk) Module, please refer to
     More for **Information Retrieval**.
     
     **English**:
-                ` "hourse" -> "hors"
-    
+                 
+                 "hourse" -> "hors"
                  "writing" -> "write" / "writ"
     
