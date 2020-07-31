@@ -3,5 +3,5 @@
 
 ## Content
 + **1. Text Processing**
-  - [Text in Chinese](https://github.com/Junyan-Guo/RGA-NLP-Demo/tree/master/doc/Chinese)
-  - [Text in English](https://github.com/Junyan-Guo/RGA-NLP-Demo/tree/master/doc/English)
+  - [Text in Chinese](https://github.com/Junyan-Guo/NLP-Deep-Learning-Demo/blob/master/doc/Chinese)
+  - [Text in English](https://github.com/Junyan-Guo/NLP-Deep-Learning-Demo/blob/master/doc/English)
