@@ -18,7 +18,8 @@ For more details on [nltk](https://github.com/nltk/nltk) Module, please refer to
                  "Hamburger is delicious" -> "hamburger", "is", "delicious"  # segementation & transfer to lowercase
     
   - **Lemmatization**:
-    More for **Text Minning**, **NLP** for better understanding and analysis of the text.
+    
+    Lemmatization is often used for **Text Minning**, **NLP** for better understanding and analysis of the text.
     
     **English**: 
                  
@@ -28,9 +29,10 @@ For more details on [nltk](https://github.com/nltk/nltk) Module, please refer to
                  "children -> "child"
                  
   - **Stemming**:
+    
     The word output after stemming may be meaningless.
     
-    More for **Information Retrieval**.
+    Stemming is often used for **Information Retrieval**.
     
     **English**:
                  
