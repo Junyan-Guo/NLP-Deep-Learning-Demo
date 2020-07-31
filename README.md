@@ -25,12 +25,12 @@
 
   - **Segmentation**:
   
-    <Chinese> 
+    + Chinese
                  
                  "世界你好" -> "世界", "你好"
                  "汉堡好吃" -> "汉堡", "好吃"
     
-    <English>
+    + English
                  
                  "Hello World" -> "Hello", "World"
                  "Hamburger is delicious" -> "hamburger", "is", "delicious"  # segementation & transfer to lowercase
@@ -39,7 +39,7 @@
     
     Lemmatization is often used for **Text Minning**, **NLP** for better understanding and analysis of the text.
     
-    <English> 
+    + English
                  
                  "did", "done", "doing", "does" -> "do"
                  "potatoes" -> "potato"                 
@@ -52,7 +52,7 @@
     
     Stemming is often used for **Information Retrieval**.
     
-    <English>
+    + English
                  
                  "hourse" -> "hors"
                  "writing" -> "write" / "writ"
