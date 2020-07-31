@@ -2,6 +2,6 @@
 **Deep Learning for Natural Language Processing**
 
 ## Content
-+ **Text Processing**
++ **1. Text Processing**
   - [Text in Chinese]()
   - [Text in English]()
