@@ -40,17 +40,17 @@
   - **Lemmatization**: Only for English.
     
     Lemmatization is often used for **Text Minning**, **NLP** for better understanding and analysis of the text.
-    +             
-                 "did", "done", "doing", "does" -> "do"
-                 "potatoes" -> "potato"                 
-                 "cities" -> "city"                 
-                 "children -> "child"
+                 
+                   "did", "done", "doing", "does" -> "do"
+                   "potatoes" -> "potato"                 
+                   "cities" -> "city"                 
+                   "children -> "child"
                  
   - **Stemming**:
     
     The word output after stemming may be meaningless.
     
     Stemming is often used for **Information Retrieval**.
-    +             
-                 "hourse" -> "hors"
-                 "writing" -> "write" / "writ"
+                 
+                   "hourse" -> "hors"
+                   "writing" -> "write" / "writ"
