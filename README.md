@@ -40,8 +40,6 @@
   - **Lemmatization**: Only for English.
     
     Lemmatization is often used for **Text Minning**, **NLP** for better understanding and analysis of the text.
-    
-    + English
                  
                  "did", "done", "doing", "does" -> "do"
                  "potatoes" -> "potato"                 
@@ -53,8 +51,6 @@
     The word output after stemming may be meaningless.
     
     Stemming is often used for **Information Retrieval**.
-    
-    + English
                  
                  "hourse" -> "hors"
                  "writing" -> "write" / "writ"
