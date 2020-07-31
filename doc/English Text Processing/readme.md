@@ -5,29 +5,31 @@ For more details on [nltk](https://github.com/nltk/nltk) Module, please refer to
 
 ## Key differences between text processing in English and Chinese text data:
 
-  - Segmentation:
+  - **Segmentation**:
   
     **Chinese**: "世界你好" -> "世界", "你好"
     
     **English**: "Hello World" -> "Hello", "World"
     
-  - Lemmatization:
+  - **Lemmatization**:
     More for **Text Minning**, **NLP** for better understanding and analysis of the text.
     
-    **English**: "did", "done", "doing", "does" -> "do"
-    
+    **English**: 
+                 `"did", "done", "doing", "does" -> "do"
+
                  "potatoes" -> "potato"
                  
                  "cities" -> "city"
                  
                  "children -> "child"
                  
-  - Stemming:
+  - **Stemming**:
     The word output after stemming may be meaningless.
     
     More for **Information Retrieval**.
     
-    **English**: "hourse" -> "hors"
+    **English**:
+                ` "hourse" -> "hors"
     
                  "writing" -> "write" / "writ"
     
