@@ -22,7 +22,8 @@
 + **4. Name Entitity Recognition**
 
 
-## General Structure of NLP + CNN:
+## General Structure of NLP tasks:
+.. image:: figs/Structure.png
 
 ## Key differences between text processing in English and Chinese text data:
 
