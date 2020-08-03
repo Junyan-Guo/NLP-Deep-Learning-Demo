@@ -8,12 +8,12 @@ For more details on the three Text Processing Modules, please refer to the link 
     * Supports Traditional Chinese
     * Supports customized dictionaries
     * MIT License
-  - [pkuseg](https://github.com/lancopku/pkuseg-python): https://github.com/lancopku/pkuseg-python
+  - [pkuseg](https://github.com/lancopku/pkuseg-python): 
     * Support multi-domain Chinese word segmentation. Pkuseg-python supports multi-domain segmentation, including domains like news, web, medicine, and tourism. Users are free to choose different pre-trained models according to the domain features of the text to be segmented. If not sure the domain of the text, users are recommended to use the default model trained on mixed-domain data.
     * Higher word segmentation results. Compared with existing word segmentation toolkits, pkuseg-python can achieve higher F1 scores on the same dataset.
     * Support model training. Pkuseg-python  also supports users to train a new segmentation model with their own data.
     * Support POS tagging. We also provide users POS tagging interfaces for further lexical analysis. 
-  - [THULAC](https://github.com/thunlp/THULAC-Python): https://github.com/thunlp/THULAC-Python
+  - [THULAC](https://github.com/thunlp/THULAC-Python): 
     * Strong power. Trained based on the biggest segemented and tagged corpus in the world (About 58 million words). Great ability for word tagging.
     * Higher accuracy. The tool reaches F1 score 97.3% on Chinese Treebank（CTB5）dataset, the F1 score fort tagging reaches 92.9%.
     * Faster speed. Running segementation and tagging simultaneously with 300KB/s, 150 thousand words per second. With 1.3MB/s on segementation only.
