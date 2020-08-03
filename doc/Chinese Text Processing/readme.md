@@ -5,7 +5,7 @@ For more details on the three Text Processing Modules, please refer to the link 
   - [THULAC](https://github.com/thunlp/THULAC-Python): https://github.com/thunlp/THULAC-Python
 
 
-## [Stop words list](https://github.com/Junyan-Guo/NLP-Deep-Learning-Demo/tree/master/doc/Chinese%20Text%20Processing)
+## [Stop words list](https://github.com/Junyan-Guo/NLP-Deep-Learning-Demo/tree/master/doc/Chinese%20Text%20Processing/stop%20words)
   - [cn_stopwords](https://github.com/Junyan-Guo/NLP-Deep-Learning-Demo/blob/master/doc/Chinese%20Text%20Processing/stop%20words/cn_stopwords.txt): contains common punctuation marks, numbers, stop words.
   - [hit_stopwords](https://github.com/Junyan-Guo/NLP-Deep-Learning-Demo/blob/master/doc/Chinese%20Text%20Processing/stop%20words/hit_stopwords.txt): contains more complicated punctuation marks, stop words.
   - [scu_stopwords](https://github.com/Junyan-Guo/NLP-Deep-Learning-Demo/blob/master/doc/Chinese%20Text%20Processing/stop%20words/scu_stopwords.txt): contains chinese words only, also focusing on colloquialism and idiom.
