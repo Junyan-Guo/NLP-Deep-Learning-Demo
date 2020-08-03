@@ -27,6 +27,8 @@
 
 <img src="figs/Structure.png" alt="Structure" width="800"/>
 
+## Datasets
++ **1. Text Classification**
 
 ## Key differences between text processing in English and Chinese text data:
 
