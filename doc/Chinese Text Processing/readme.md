@@ -3,9 +3,9 @@ For more details on the three Text Processing Modules, please refer to the link 
   - [jieba](https://github.com/fxsjy/jieba): 
     * Support three types of segmentation mode:
 
-    1. Accurate Mode attempts to cut the sentence into the most accurate segmentations, which is suitable for text analysis.
-    2. Full Mode gets all the possible words from the sentence. Fast but not accurate.
-    3. Search Engine Mode, based on the Accurate Mode, attempts to cut long words into several short words, which can raise the recall rate. Suitable for search engines.
+      1. Accurate Mode attempts to cut the sentence into the most accurate segmentations, which is suitable for text analysis.
+      2. Full Mode gets all the possible words from the sentence. Fast but not accurate.
+      3. Search Engine Mode, based on the Accurate Mode, attempts to cut long words into several short words, which can raise the recall rate. Suitable for search engines.
 
     * Supports Traditional Chinese
     * Supports customized dictionaries
