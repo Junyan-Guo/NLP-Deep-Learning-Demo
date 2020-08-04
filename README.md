@@ -12,6 +12,7 @@
     * [Chinese Stop Words](https://github.com/Junyan-Guo/NLP-Deep-Learning-Demo/tree/master/doc/Chinese%20Text%20Processing/stop%20words)
     * [Jieba, Pkuseg, Thulac: Demo](https://github.com/Junyan-Guo/NLP-Deep-Learning-Demo/blob/master/doc/Chinese%20Text%20Processing/Chinese%20Text%20Processing.ipynb)
   - [Processing in English Text](https://github.com/Junyan-Guo/NLP-Deep-Learning-Demo/tree/master/doc/English%20Text%20Processing)
+  - [Language Translation](https://github.com/Junyan-Guo/NLP-Deep-Learning-Demo/tree/master/doc/Language%20Translation)
 
 ## Application
 + **1. Text Classification**
