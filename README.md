@@ -5,12 +5,12 @@
   In this section, materials (paper and websites) are contained for better understanding of the following projects.
 
 ## 2. Text Processing
-  - 1. [Processing in Chinese Text](https://github.com/Junyan-Guo/NLP-Deep-Learning-Demo/tree/master/doc/Chinese%20Text%20Processing)
+  1. [Processing in Chinese Text](https://github.com/Junyan-Guo/NLP-Deep-Learning-Demo/tree/master/doc/Chinese%20Text%20Processing)
   
     * [Chinese Stop Words](https://github.com/Junyan-Guo/NLP-Deep-Learning-Demo/tree/master/doc/Chinese%20Text%20Processing/stop%20words)
     * [Jieba, Pkuseg, Thulac: Demo](https://github.com/Junyan-Guo/NLP-Deep-Learning-Demo/blob/master/doc/Chinese%20Text%20Processing/Chinese%20Text%20Processing.ipynb)
-  - 2. [Processing in English Text](https://github.com/Junyan-Guo/NLP-Deep-Learning-Demo/tree/master/doc/English%20Text%20Processing)
-  - 3. [Language Translation](https://github.com/Junyan-Guo/NLP-Deep-Learning-Demo/tree/master/doc/Language%20Translation)
+  2. [Processing in English Text](https://github.com/Junyan-Guo/NLP-Deep-Learning-Demo/tree/master/doc/English%20Text%20Processing)
+  3. [Language Translation](https://github.com/Junyan-Guo/NLP-Deep-Learning-Demo/tree/master/doc/Language%20Translation)
 
 ## 3. Application
 + **1. Text Classification**
