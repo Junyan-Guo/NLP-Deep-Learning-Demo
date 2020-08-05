@@ -17,6 +17,7 @@
 ## Application
 + **1. Text Classification**
   - [Movie Comments (English)](https://github.com/Junyan-Guo/NLP-Deep-Learning-Demo/tree/master/doc/Application/Movie%20Comments)
+      -[BiLSTM](https://github.com/Junyan-Guo/NLP-Deep-Learning-Demo/blob/master/doc/Application/Movie%20Comments/Movie%20Classification.ipynb)
   - [Movie Reviews (Chinese)](https://github.com/Junyan-Guo/NLP-Deep-Learning-Demo/tree/master/doc/Chinese%20Text%20Processng)
 
 + **2. Sentiment Analysis**
