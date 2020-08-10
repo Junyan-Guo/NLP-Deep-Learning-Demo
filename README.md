@@ -1,4 +1,4 @@
-# RGA-NLP-Demo      [*!Still on Working!*]
+# NLP-Demo      [*!Still on Working!*]
 **Deep Learning for Natural Language Processing**
 
 ## 1. [Overview]((https://github.com/Junyan-Guo/NLP-Deep-Learning-Demo/tree/master/doc/Overview)) 
