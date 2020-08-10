@@ -3,6 +3,7 @@
 
 ## 1. [Overview]((https://github.com/Junyan-Guo/NLP-Deep-Learning-Demo/tree/master/doc/Overview)) 
   In this section, materials (paper and websites) are contained for better understanding of the following projects.
+  + [Algorithms Application](https://github.com/Junyan-Guo/NLP-Deep-Learning-Demo/blob/master/doc/Overview/NLP%26Deep%20Learning.pdf)
 
 ## 2. Text Processing
   + [1. Processing in Chinese Text](https://github.com/Junyan-Guo/NLP-Deep-Learning-Demo/tree/master/doc/Chinese%20Text%20Processing)
